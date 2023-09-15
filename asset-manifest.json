@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8a5d8fb.css",
+    "main.js": "/static/js/main.f35ce4dd.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/arsenal.jpg": "/static/media/arsenal.083158a02d084139bf32.jpg",
+    "index.html": "/index.html",
+    "main.c8a5d8fb.css.map": "/static/css/main.c8a5d8fb.css.map",
+    "main.f35ce4dd.js.map": "/static/js/main.f35ce4dd.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a5d8fb.css",
+    "static/js/main.f35ce4dd.js"
+  ]
+}
